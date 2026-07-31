@@ -1,0 +1,7 @@
+langchain-openai
+langchain-core
+python-dotenv
+pydantic
+langgraph
+langgraph-checkpoint-sqlite
+grandalf
